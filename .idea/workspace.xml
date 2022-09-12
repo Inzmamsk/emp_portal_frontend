@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d1316b84-061f-43b5-8cd3-fbcb772f5aef" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/components/FormInputElement/FormAvatarElement.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/FormInputElement/FormCountryElement.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/FormInputElement/FormFileUploader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/FormInputElement/FormMultiOptionElement.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/FormInputElement/FormOptionElement.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/FormInputElement/FormPasswordElement.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/FormInputElement/FormQuillElement.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/FormInputElement/FormSwitchElement.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/FormInputElement/FormTextElement.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/FormInputElement/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/constants/field-types.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Endpoint/attendance/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Endpoint/attendance/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/emp-admin/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/emp-admin/index.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1seXU9FoZVKykT7NoTcsiPQIYpa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/constants" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/constants" />
+      <recent name="$PROJECT_DIR$/components" />
+      <recent name="$PROJECT_DIR$/pages" />
+      <recent name="$PROJECT_DIR$/public/img" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/app-static" />
+      <recent name="$PROJECT_DIR$/config" />
+      <recent name="$PROJECT_DIR$/pages/login" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d1316b84-061f-43b5-8cd3-fbcb772f5aef" name="Default Changelist" comment="" />
+      <created>1621234052257</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621234052257</updated>
+      <workItem from="1621234053652" duration="3907000" />
+      <workItem from="1621241929505" duration="11161000" />
+      <workItem from="1621313049405" duration="20171000" />
+      <workItem from="1621838141554" duration="5331000" />
+      <workItem from="1621860350667" duration="6305000" />
+      <workItem from="1621958939395" duration="50000" />
+      <workItem from="1622037034599" duration="1921000" />
+      <workItem from="1622454475402" duration="2946000" />
+      <workItem from="1622639386234" duration="1128000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="430" y="189" width="568" height="423" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1621320486182">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="430" y="189" width="568" height="423" key="#com.intellij.fileTypes.FileTypeChooser/72.27.1294.741/1366.0.1366.768@72.27.1294.741" timestamp="1621320486182" />
+    <state x="1832" y="142" width="424" height="491" key="FileChooserDialogImpl" timestamp="1621261669962">
+      <screen x="1366" y="0" width="1366" height="768" />
+    </state>
+    <state x="1832" y="142" width="424" height="491" key="FileChooserDialogImpl/72.27.1294.741/1366.0.1366.768@1366.0.1366.768" timestamp="1621261669962" />
+    <state x="167" y="123" width="1105" height="549" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1621331224473">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="1466" y="100" width="1166" height="568" key="com.intellij.history.integration.ui.views.FileHistoryDialog/72.27.1294.741/1366.0.1366.768@1366.0.1366.768" timestamp="1621259701379" />
+    <state x="167" y="123" width="1105" height="549" key="com.intellij.history.integration.ui.views.FileHistoryDialog/72.27.1294.741/1366.0.1366.768@72.27.1294.741" timestamp="1621331224473" />
+    <state x="1741" y="107" width="616" height="554" key="find.popup" timestamp="1621861812837">
+      <screen x="1366" y="0" width="1366" height="768" />
+    </state>
+    <state x="1741" y="107" width="616" height="554" key="find.popup/72.27.1294.741/1366.0.1366.768@1366.0.1366.768" timestamp="1621861812837" />
+    <state x="427" y="130" width="588" height="554" key="find.popup/72.27.1294.741/1366.0.1366.768@72.27.1294.741" timestamp="1621336006860" />
+  </component>
+</project>
